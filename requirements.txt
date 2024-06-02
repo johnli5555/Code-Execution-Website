@@ -2,6 +2,7 @@ fastapi
 pydantic
 sqlalchemy
 typing
-models
+doqu
+databases
 pandas
 scipy
