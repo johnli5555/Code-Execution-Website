@@ -3,7 +3,7 @@ pydantic
 sqlalchemy
 typing
 models
-database
+databases
 pandas
 io
 contextlib
