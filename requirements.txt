@@ -3,6 +3,5 @@ pydantic
 sqlalchemy
 typing
 models
-databases
 pandas
 scipy
